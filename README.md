@@ -1,5 +1,5 @@
 # Dodger
-This is a game using python pygame.
+This is a game using Python Pygame.
 
 ## Getting started
 
@@ -7,12 +7,13 @@ This is a game using python pygame.
 ```
 git clone https://github.com/sagnikghoshcr7/Dodger.git
 ```
-<!--
-2. install OpenCV python package by the following command if previously not installed
+
+2. install Pygame python package by the following command if previously not installed
 ```
-pip install opencv
+pip install pygame
 ```
 
+<!--
 3. Finally run the face_detector.py file and enjoy 😉
 
 ![](https://github.com/sagnikghoshcr7/images/blob/master/Face%20Recognition.gif)
