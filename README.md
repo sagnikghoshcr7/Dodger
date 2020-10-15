@@ -15,4 +15,4 @@ pip install pygame
 
 3. Finally run the dodger.py file and play the game 😉
 
-![]https://github.com/sagnikghoshcr7/images/blob/master/Dodger%20gif.gif)
+![](https://github.com/sagnikghoshcr7/images/blob/master/Dodger%20gif.gif)
