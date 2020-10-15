@@ -13,8 +13,8 @@ git clone https://github.com/sagnikghoshcr7/Dodger.git
 pip install pygame
 ```
 
-<!--
-3. Finally run the face_detector.py file and enjoy 😉
+3. Finally run the dodger.py file and enjoy 😉
 
+<!--
 ![](https://github.com/sagnikghoshcr7/images/blob/master/Face%20Recognition.gif)
 -->
